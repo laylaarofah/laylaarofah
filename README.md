@@ -1,4 +1,4 @@
-# Hi, I'm [Layla Arofah] 👋
+# Hi, I'm [Layla Arofah] 😼
 
 ## About Me
 I am a passionate developer and a student at [Jakarta State Vocational School 18]. I am currently learning [Teknologi/Pembahasan ApiKey]. I love working on projects related to [web development, data science, AI, etc.].
